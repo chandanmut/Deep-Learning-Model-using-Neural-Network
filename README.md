@@ -24,3 +24,5 @@ Results:
 
 Among the traditional machine learning models, the Random Forest classifier achieved the highest accuracy of 86%.
 The neural network model achieved an accuracy of 79% with a mean squared error of 30,142,534, indicating its effectiveness in predicting churn.
+
+Dataset Source: Kaggle
